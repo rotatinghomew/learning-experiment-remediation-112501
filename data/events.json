@@ -1,0 +1,26 @@
+[
+  {
+    "event_id": "learning_experiment_remediation-e01",
+    "period": "2026-Q1",
+    "group": "A",
+    "status": "recorded"
+  },
+  {
+    "event_id": "learning_experiment_remediation-e02",
+    "period": "2026-Q1",
+    "group": "B",
+    "status": "recorded"
+  },
+  {
+    "event_id": "learning_experiment_remediation-e03",
+    "period": "2026-Q2",
+    "group": "A",
+    "status": "pending"
+  },
+  {
+    "event_id": "learning_experiment_remediation-e04",
+    "period": "2026-Q2",
+    "group": "C",
+    "status": "recorded"
+  }
+]
